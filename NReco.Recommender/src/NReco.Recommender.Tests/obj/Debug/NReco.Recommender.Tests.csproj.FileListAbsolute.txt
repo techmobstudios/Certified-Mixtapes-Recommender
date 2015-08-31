@@ -1,0 +1,1 @@
+C:\Users\Ricky\Downloads\recommender_1.0_free\NReco.Recommender\src\NReco.Recommender.Tests\obj\Debug\NReco.Recommender.Tests.csprojResolveAssemblyReference.cache
